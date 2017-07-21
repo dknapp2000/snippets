@@ -1,0 +1,3 @@
+Adding ciphers: 'DES-CBC3-SHA' to the request options seems to fix it in my case.
+
+https://github.com/nodejs/node/issues/9845
